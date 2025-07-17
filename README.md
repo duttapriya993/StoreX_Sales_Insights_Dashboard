@@ -39,12 +39,12 @@ Includes structured retail order data with:
 ## 📁 Project Folder Structure
 
 - `Storex Banner.png` – Dashboard banner image  
-- `README_StoreX_PriyaDutta.md` – Project documentation  
+- `README.md` – Project documentation  
 - `Storex_Sales_Insights_Dashboard_PriyaDutta.pbix` – Power BI source file  
 - `Storex_Sales_Insights_Dashboard_PriyaDutta.pdf` – Exported dashboard in PDF format  
 - `Dataset/Enhanced_Superstore_Sales_PriyaDutta.xlsx` – Source dataset  
-- `Images/Dashboard_Executive_Overview.png` – Executive overview screenshot  
-- `Images/Dashboard_Insights.png` – Insights page screenshot  
+- `Images/Dashboard_Executive_Overview.PNG` – Executive overview screenshot  
+- `Images/Dashboard_Insights.PNG` – Insights page screenshot  
 
 
 ## ⚒ Tools Used
