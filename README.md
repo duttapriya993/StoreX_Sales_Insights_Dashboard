@@ -1,4 +1,4 @@
-![Banner](StoreX Banner.png)
+![Banner](StoreX Banner.PNG)
 # 📊 StoreX Sales Insights Dashboard
 
 An interactive Power BI dashboard designed to analyze key sales, profit, discount, and customer metrics for a fictional retail brand — **StoreX**. This project showcases dynamic business insights across time, categories, regions, and customers with a visually appealing, analyst-grade report layout.
@@ -87,10 +87,10 @@ Includes structured retail order data with:
 
 ## 📊 Sample Visuals
 
-![Executive Overview](Images/Dashboard_Executive_Overview.png)
+![Executive Overview](Images/Dashboard_Executive_Overview.PNG)
 *StoreX Executive Overview - Lifetime KPIs, Filters & Branding*
 
-![Strategic Insights](Images/Dashboard_Insights.png)
+![Strategic Insights](Images/Dashboard_Insights.PNG)
 *Insight Summary - Key Oberservations, Trends, and Data Notes*
 
 ---
