@@ -1,3 +1,4 @@
+![Banner](Storex Banner.png)
 # 📊 StoreX Sales Insights Dashboard
 
 An interactive Power BI dashboard designed to analyze key sales, profit, discount, and customer metrics for a fictional retail brand — **StoreX**. This project showcases dynamic business insights across time, categories, regions, and customers with a visually appealing, analyst-grade report layout.
@@ -57,7 +58,7 @@ Includes structured retail order data with:
 
 - 💡 **Executive Overview Page**: Summary KPIs and top-level performance metrics  
 - 📅 **MTD Insights**: Real-time Month-to-Date analysis of Sales, Profit, Orders  
-- 📦 **Category & Product Analysis**:  
+- 📦 **Product & Category Analysis**:  
   - Top/Bottom 5 product insights  
   - Profitability vs Discount analysis (scatter plot)  
   - KPI cards showing top sellers  
@@ -70,17 +71,27 @@ Includes structured retail order data with:
   - Monthly trendline chart  
 - 📋 **Insights & Takeaways**:  
   - Business observations  
-  - Data coverage notes and assumptions  
+  - Data coverage notes and assumptions
+- 🎨 Designed with a **dark purple theme** for high visual appeal
+
+### 📊 Visual Elements Used
+
+- Bar & Column Charts  
+- Line & Combo (Column + Line) Charts  
+- Pie & Donut Charts  
+- Heatmap (by City/Region)  
+- Scatter Plot (for Discount vs Profit)  
+- KPI Cards & Text Boxes
 
 ---
 
 ## 📊 Sample Visuals
 
-(Images/Dashboard_Executive_Overview.png)  
-*StoreX Executive Overview – Lifetime KPIs, Filters & Branding*
+![Executive Overview](Images/Dashboard_Executive_Overview.png)
+*StoreX Executive Overview - Lifetime KPIs, Filters & Branding*
 
-(Images/Dashboard_Insights.png)  
-*Insight Summary – Key Observations, Trends, and Data Notes*
+![Strategic Insights](Images/Dashboard_Insights.png)
+*Insight Summary - Key Oberservations, Trends, and Data Notes*
 
 ---
 
@@ -119,6 +130,6 @@ The **StoreX logo** was custom-designed to complement the dashboard’s visual t
 
 ## 📅 Date
 
-**July 2025**
+**17th July 2025**
 
 ---
