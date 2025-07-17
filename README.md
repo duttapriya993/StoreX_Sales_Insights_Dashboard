@@ -91,7 +91,7 @@ Includes structured retail order data with:
 *StoreX Executive Overview - Lifetime KPIs, Filters & Branding*
 
 ![Strategic Insights](Images/Dashboard_Insights.PNG)
-*Insight Summary - Key Oberservations, Trends, and Data Notes*
+*Insights Summary - Key Oberservations, Trends, and Data Notes*
 
 ---
 
