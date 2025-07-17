@@ -1,6 +1,8 @@
 ![Banner](StoreX%20Banner.png)
 # 📊 StoreX Sales Insights Dashboard
 
+![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)
+
 An interactive Power BI dashboard designed to analyze key sales, profit, discount, and customer metrics for a fictional retail brand — **StoreX**. This project showcases dynamic business insights across time, categories, regions, and customers with a visually appealing, analyst-grade report layout.
 
 > 🎨 Special focus was given to dashboard aesthetics and storytelling — carefully styled with theme consistency, visual balance, and design creativity to make every page impactful.
@@ -120,16 +122,24 @@ The **StoreX logo** was custom-designed to complement the dashboard’s visual t
 
 ---
 
-## 👩‍💻 Author
+## 🧑‍💼 Author
 
 **Priya Dutta**  
-*Aspiring Data Analyst | Power BI | SQL | Python | Excel*  
-[LinkedIn Profile](https://www.linkedin.com/in/priya-dutta-b2541b14b)
+🎓 Executive Certification in Data Science with AI Specialization (IIT Guwahati via AnalytixLabs)  
+🎓 MBA in Marketing & Finance  
+📍 Betul, M.P. | Open to Remote Work & Relocation  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/priya-dutta-b2541b14b)
 
 ---
 
 ## 📅 Date
 
 **17th July 2025**
+
+---
+
+## License
+This project is proprietary and protected by copyright law.
+Unauthorized copying, distribution, or reuse is strictly prohibited.
 
 ---
