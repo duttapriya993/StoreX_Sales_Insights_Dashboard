@@ -31,7 +31,7 @@ Includes structured retail order data with:
 - 📦 Order Details ( ID, Date)  
 - 🧍 Customer Details (Name, Segment)  
 - 🗺️ Location Data (Region, City, State)  
-- 🗃️ Product Hierarchy (Category, Sub-Category)
+- 🗃️ Product Details (Name, Category, Sub-Category)
 - 🚢 Ship Mode
   
 ---
