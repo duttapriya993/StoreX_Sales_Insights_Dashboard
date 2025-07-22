@@ -59,9 +59,9 @@ Includes structured retail order data with:
 ## 📌 Key Features
 
 - 💡 **Executive Overview Page**: Summary KPIs and top-level performance metrics  
-- 📅 **MTD Insights**: Real-time Month-to-Date analysis of Sales, Profit, Orders  
-- 📦 **Product & Category Analysis**:  
-  - Top/Bottom 5 product insights  
+- 📅 **MTD Insights**: Real-time Month-to-Date analysis of Sales, Profit, Orders
+- 🗓 **Custom Calendar Table:** Created using Power Query for MTD and YoY time intelligence in DAX.
+- 📦 **Product & Category Analysis**:   - Top/Bottom 5 product insights  
   - Profitability vs Discount analysis (scatter plot)  
   - KPI cards showing top sellers  
 - 🌍 **Regional & Customer Insights**:  
