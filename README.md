@@ -134,7 +134,8 @@ The **StoreX logo** was custom-designed to complement the dashboard’s visual t
 
 ## 🤖 AI Tools Used
 
-I used ChatGPT while working on this project — mainly to get help in understanding queries, fixing errors, and writing some parts faster. Everything was checked and done by me with full understanding.
+I used ChatGPT to plan the dashboard structure, refine DAX queries, and polish the business insights.
+All dashboard visuals, color themes, page layout, and storytelling design were done entirely by me.
 
 ---
 
